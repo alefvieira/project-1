@@ -6,7 +6,9 @@ function Home(){
         <Link href="/sobre">
             <a >Acessar sobre</a>
         </Link>
-        
+        <Link href="/tempo">
+            <a >Acessar dinamico</a>
+        </Link>
 
 
     </div> )
